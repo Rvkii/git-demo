@@ -1,6 +1,7 @@
-hello git! hello git! 3333333
+branch hot fix
+hello git! hello git! 4444444
 hello git! hello git!
-hello change! hello change!
+hello hot-fix! hello hot fix!
 hello git! hello git!
 hello git! hello git!
 hello git! hello git!
