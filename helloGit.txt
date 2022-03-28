@@ -1,7 +1,7 @@
-branch hot fix
-hello git! hello git! 4444444
+branch master merge
+hello git! hello git! 555555
 hello git! hello git!
-hello hot-fix! hello hot fix!
+hello merge! hello merge!
 hello git! hello git!
 hello git! hello git!
 hello git! hello git!
